@@ -1,4 +1,5 @@
-pip install google-generativeai
+!pip install python-dotenv
+!pip install google-generativeai
 import google.generativeai as genai
 import os
 

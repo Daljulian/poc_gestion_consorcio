@@ -5,7 +5,7 @@ from twilio.twiml.messaging_response import MessagingResponse
 import google.generativeai as genai
 
 # Reemplaza "TU_API_KEY_AQUI" con tu clave real de Google AI
-API_KEY = "AIzaSyCvj_Fzl5gc7iuv8zbhBJfnp9dxDASGwfU"
+API_KEY = "TU_API_KEY_AQUI"
 genai.configure(api_key=API_KEY)
 
 app = Flask(__name__)

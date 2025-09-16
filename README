@@ -1,0 +1,71 @@
+Título
+
+POC: Chat IA para Gestión de Consorcios
+
+Nombre del Proyecto
+
+POC Gestión Consorcio
+
+Resumen del Proyecto
+
+Este proyecto propone una prueba de concepto (POC) de un sistema basado en inteligencia artificial conversacional, diseñado para asistir en la gestión diaria de consorcios e inmobiliarias. La herramienta busca centralizar consultas, reclamos y notificaciones, ofreciendo respuestas inmediatas y organizando la información de manera eficiente.
+
+El objetivo principal es validar la viabilidad de un chat IA como soporte administrativo, reduciendo la carga de trabajo manual, mejorando la comunicación entre propietarios, inquilinos, administradores y proveedores, y aportando transparencia en los procesos.
+
+Introducción
+
+La administración de consorcios e inmobiliarias involucra una amplia variedad de tareas: desde pagos y control de documentación, hasta la recepción de reclamos, denuncias por desperfectos, solicitudes de reparaciones y consultas frecuentes de propietarios e inquilinos.
+
+En este contexto, la saturación de notificaciones diarias se convierte en uno de los principales problemas de gestión, afectando la eficiencia, la organización y la calidad del servicio ofrecido.
+
+Este proyecto busca probar la factibilidad de una solución de IA conversacional que automatice gran parte de estas interacciones, agilizando los tiempos de respuesta y optimizando la atención de reclamos y consultas.
+
+Problema a Abordar
+
+Gran volumen de consultas y notificaciones múltiples relacionadas con pagos, deudas o retrasos.
+
+Denuncias por desperfectos o roturas en las unidades o espacios comunes.
+
+Solicitudes de reparaciones que requieren asignar a profesionales de una lista de proveedores disponibles.
+
+Necesidad de atender propietarios, inquilinos y administradores, cada uno con requerimientos distintos: estados de cuenta, contratos, documentación, pagos, ofertas de unidades.
+
+Complejidad de organizar, dar seguimiento y responder en tiempo y forma a todos los actores.
+
+Desarrollo de la Posible Solución
+
+La solución propuesta es el desarrollo de un chat IA que:
+
+Reciba, organice y clasifique consultas y reclamos de distintos usuarios (propietarios, inquilinos, proveedores, administradores).
+
+Ofrezca respuestas inmediatas y contextuales, reduciendo la necesidad de intervención manual.
+
+Canalice solicitudes de reparaciones y asigne tareas a profesionales de una lista predeterminada.
+
+Gestione notificaciones de pagos, recordatorios y documentación pendiente.
+
+Funcione como un primer nivel de atención, liberando carga operativa al administrador del consorcio.
+
+Este POC se centra en demostrar la viabilidad técnica y el valor agregado que un sistema de IA puede aportar a la administración cotidiana.
+
+Justificación de la Viabilidad
+
+La IA conversacional está ampliamente probada en sectores de atención al cliente y puede adaptarse al ámbito de consorcios e inmobiliarias.
+
+Reduce costos operativos al automatizar tareas repetitivas y de bajo valor agregado.
+
+Aumenta la satisfacción de los usuarios al ofrecer respuestas rápidas y claras.
+
+Permite escalabilidad, ya que se pueden añadir funcionalidades como integración con sistemas de pagos, reportes automáticos y gestión documental.
+
+Objetivos
+
+Desarrollar un prototipo funcional de chat IA para la gestión de consultas y reclamos en consorcios.
+
+Validar la capacidad de la IA para organizar notificaciones, canalizar problemas y responder consultas frecuentes.
+
+Probar la integración básica con procesos administrativos: pagos, documentación y solicitudes de reparación.
+
+Evaluar el impacto en tiempos de respuesta y reducción de carga operativa para administradores.
+
+Establecer una base de desarrollo para futuras versiones con mayor alcance e integración.
